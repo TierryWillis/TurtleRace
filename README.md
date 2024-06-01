@@ -24,7 +24,7 @@ Este projeto é um simulador de corrida de tartarugas desenvolvido em C#. Nele, 
 3 - **Resultado da Corrida:**
 - Ao final da corrida, o vencedor será anunciado com base no desempenho calculado a partir dos atributos físicos.
 
-## Estrutura do Código
+## Estrutura do Arquivo
 ```
 /TurtleRace
 │
@@ -77,3 +77,5 @@ Ou execute no Visual Studio.
 ## Licença
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
+
+**Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe de desenvolvimento. Boa corrida! 🐢🏁**
