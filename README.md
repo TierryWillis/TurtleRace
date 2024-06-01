@@ -1,81 +1,80 @@
-
 # Turtle Race
 
-## Descrição
-Este projeto é um simulador de corrida de tartarugas desenvolvido em C#. Nele, você pode criar até cinco tartarugas para competir. O desempenho das tartarugas na corrida é influenciado por suas características físicas, como peso e altura. Além disso, o projeto utiliza sons para melhorar a experiência do usuário e faz uso de threads para gerenciar a concorrência durante a simulação da corrida.
+## Description
+This project is a turtle racing simulator developed in C#. In it, you can create up to five turtles to compete. Turtles' performance in the race is influenced by their physical characteristics, such as weight and height. Additionally, the project uses sounds to improve the user experience and makes use of threads to manage concurrency during the race simulation.
 
-## Funcionalidades
-- **Criação de Tartarugas:** Permite a criação de até cinco tartarugas, cada uma com atributos específicos de peso e altura.
-- **Simulação de Corrida:** As tartarugas competem entre si, com base nos atributos definidos.
-- **Impacto dos Atributos no Desempenho:** O peso e a altura das tartarugas influenciam diretamente seu desempenho na corrida.
-- **Efeitos Sonoros:** Sons são utilizados para tornar a simulação mais envolvente.
-- **Uso de Threads:** A corrida é gerenciada utilizando threads para simular a concorrência entre as tartarugas.
+## Functionalities
+- **Turtle Breeding:** Allows the creation of up to five turtles, each with specific weight and height attributes.
+- **Racing Simulation:** Turtles compete against each other, based on defined attributes.
+- **Impact of Attributes on Performance:** The weight and height of turtles directly influence their performance in the race.
+- **Sound Effects:** Sounds are used to make the simulation more immersive.
+- **Use of Threads:** The race is managed using threads to simulate competition between turtles.
 
 
-## Como Usar
-1 - **Criação das Tartarugas:**
-- Ao iniciar o programa, você será solicitado a criar até cinco tartarugas.
-- Para cada tartaruga, insira os atributos de peso e altura.
+## How to use
+1 - **Turtle Breeding:**
+- When starting the program, you will be asked to create up to five turtles.
+- For each turtle, enter the weight and height attributes.
 
-2 - **Início da Corrida:**
-- Após criar as tartarugas, inicie a corrida.
-- A corrida será exibida na tela, mostrando o progresso de cada tartaruga.
+2 - **Start of the Race:**
+- After creating the turtles, start the race.
+- The race will be displayed on the screen, showing each turtle's progress.
 
-3 - **Resultado da Corrida:**
-- Ao final da corrida, o vencedor será anunciado com base no desempenho calculado a partir dos atributos físicos.
+3 - **Race Result:**
+- At the end of the race, the winner will be announced based on performance calculated from physical attributes.
 
-## Estrutura do Arquivo
+## File Structure
 ```
 /TurtleRace
 │
-├── music               # Pasta dos sons usados
-├── .gitignore          # Arquivos e pastas ignoradas
-├── Referencias.txt     # Referencias do projeto
-├── Program.cs          # Ponto de entrada do programa
-├── README.md           # Descrição do projeto
-└── LICENSE             # Licença do projeto
+├── music # Folder of used sounds
+├── .gitignore # Ignored files and folders
+├── References.txt # Project references
+├── Program.cs # Program entry point
+├── README.md # Project description
+└── LICENSE # Project license
 ```
 
-## Requisitos
-**Plataforma:** Windows
+## Requirements
+**Platform:** Windows
 
-**Linguagem:** C#
+**C language#
 
-**Bibliotecas:** ```System.Threading```, ```System.Threading.Tasks```, ```System.Media```
+**Libraries:** ```System.Threading```, ```System.Threading.Tasks```, ```System.Media```
 
-## Instalação
+## Installation
 
-**Clone este repositório**
+**Clone this repository**
 
-Copiar código:
+Copy code:
 ```
 git clone https://github.com/seu-usuario/TurtleRace
 ```
-Abra o projeto no Visual Studio Code ou Visual Studio.
-Compile e execute o projeto utilizando o terminal do Visual Studio Code.
-Use o comando:
+Open the project in Visual Studio Code or Visual Studio.
+Compile and run the project using the Visual Studio Code terminal.
+Use the command:
 ```
 dotnet run
 ```
-Ou execute no Visual Studio.
+Or run in Visual Studio.
 
-## Equipe  de Criadores:
+## Creator Team:
 
 **Tierry Willis**
 
-**Cícero Eduardo**
+**Cicero Eduardo**
 
 **Letícia Regina**
 
-## Orientadores:
+## Advisors:
 
 **Paulo Jacobsen**
 
 **Jean Marcos**
 
 
-## Licença
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## License
+This project is licensed under the terms of the MIT License. See the LICENSE file for more details.
 
 
-**Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe de desenvolvimento. Boa corrida! 🐢🏁**
+**Any questions or suggestions, feel free to contact the development team. Good run! 🐢🏁**
