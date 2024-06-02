@@ -38,7 +38,7 @@ This project is a turtle racing simulator developed in C#. In it, you can create
 ## Requirements
 **Platform:** Windows
 
-**C language#
+**Language: C#**
 
 **Libraries:** ```System.Threading```, ```System.Threading.Tasks```, ```System.Media```
 
