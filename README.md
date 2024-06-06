@@ -58,11 +58,12 @@ dotnet run
 ```
 Or run in Visual Studio.
 
+
 ## Creator Team:
 
-***Tierry Willis***
+[***Tierry Willis***](https://github.com/TierryWillis)
 
-***Cicero Eduardo***
+[***Cicero Eduardo***](https://github.com/Cicero-Fernandes)
 
 ***Letícia Regina***
 
