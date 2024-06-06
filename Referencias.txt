@@ -1,4 +1,4 @@
-Grupo: Cicero Eduardo Silva Fernandes, Tierry Willis Yun de Souza, Leticia Regina Oliveira da Silva
+Grupo: Cicero Eduardo S. Fernandes, Tierry Willis Yun de Souza, Leticia Regina Oliveira da Silva
 
 https://www.w3schools.com/cs/index.php
 https://www.devmedia.com.br/programacao-assincrona-multithreading-em-net-com-csharp/23357
